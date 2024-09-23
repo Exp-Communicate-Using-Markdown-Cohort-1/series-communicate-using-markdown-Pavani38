@@ -6,3 +6,6 @@
 ###### This is `<h6>` Header.
 
 ### To preview the tags we use them between `<>` in markdown.
+
+### Image and its Alt txt using markdown language.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
