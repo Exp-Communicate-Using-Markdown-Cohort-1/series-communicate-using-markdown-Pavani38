@@ -4,3 +4,9 @@
 #### This is `<h4>` Header.
 ##### This is `<h5>` Header.
 ###### This is `<h6>` Header.
+
+### Image and its Alt txt using markdown language.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
